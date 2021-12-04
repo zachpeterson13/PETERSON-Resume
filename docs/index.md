@@ -7,19 +7,20 @@ title: Zachary Peterson's Resume
 <div id="webaddress">
 <a href="zachpeterson13@icloud.com">zachpeterson13@icloud.com</a>
 | <a href="https://zachtpeterson.com/">zachtpeterson.com</a>
-| <a href="https://www.linkedin.com/in/zachp13/">linkedin.com/in/zachp13</a> |<br>
+| <a href="https://www.linkedin.com/in/zachp13/">linkedin.com/in/zachp13</a> |
 <a href="https://github.com/zachpeterson13">github.com/zachpeterson13</a>
 | +1-913-271-9504
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 ## Skills
-### Programming:
+
+### Programming
 
 - **Intermediate:** C++, Java, JavaScript, HTML & CSS, Python, MySQL
 - **Novice:** Swift, C#
 
-### Other:
+### Other
 
 - **Intermediate:** Android Studio, Linux, MacOS, Windows, Visual Studio
 
@@ -36,8 +37,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Work History
 
-`Jan 2019 - April 2019` 
-`Aug 2020 - Feb 2021`
+`Jan 2019 - April 2019 | Aug 2020 - Feb 2021`
 __Klein & Walker Orthodontics__
 _Sterilization Specialist_
 - Operate Sterilization Equipment
