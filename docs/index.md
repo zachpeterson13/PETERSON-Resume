@@ -1,87 +1,85 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Zachary Peterson's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Zachary Peterson
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="zachpeterson13@icloud.com">zachpeterson13@icloud.com</a>
+| <a href="https://zachtpeterson.com/">zachtpeterson.com</a>
+| <a href="https://www.linkedin.com/in/zachp13/">linkedin.com/in/zachp13</a> |<br>
+<a href="https://github.com/zachpeterson13">github.com/zachpeterson13</a>
+| +1-913-271-9504
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
+## Skills
+#### Programming:
+
+- **Intermediate:** C++, Java, JavaScript, HTML & CSS, Python, MySQL
+- **Novice:** Swift, C#
+
+#### Other:
+
+- **Intermediate:** Android Studio, Linux, MacOS, Windows, Visual Studio
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected Fall 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.9 Major GPA
+###### Relevant Coursework:
+- Object Oriented Programming | Data Structures | Software Design and Development 
+- Web Engineering | Introduction to Business | Introduction to Excel
+- Advance Writing in Professional Contents | Introduction to Databases
 
+## Work History
+
+`Jan 2019 - April 2019` , `Aug 2020 - Feb 2021`
+__Klein & Walker Orthodontics__
+_Sterilization Specialist_
+- Operate Sterilization Equipment
+- Decontaminate Instruments
+- Helped with the restocking of supplies
+- Perform quality control checks
 
 ## Related Experience
 
-### Internships
+### Projects
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`Fall 2019`
+__MasSMS__
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Android app using Java
+- App can text multiple people same message
+- Worked with a small group
+- Implemented MVP design pattern and Excel spreadsheet to JSON functionality.
 
-### Data Science Lead
+`Fall 2020`
+__Personal Website__
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- HTML and CSS
+- Responsive layout
+- Parallax scrolling
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+## Certifications & Awards
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+### Microsoft Office Specialist `2017`
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- Master 2013
+- Word 2013
+- PowerPoint 2013
+- Excel 2013  
 
-### Data Science Consulting Team
+### Microsoft Technology Associate (MTA) `2017`
 
-`January 2027 - April 2027`
-__Imagine Learning__
+- HTML5 Application Development Fundamentals
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
-
+### Awards & Achievements
+- Eagle Scout `2019`
+- Award of Excellence Scholarship `2019`
+- Kansas CTE Scholar `2018`
 <!-- ### Footer
 
 Last updated: May 2013 -->
