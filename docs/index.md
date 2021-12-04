@@ -14,12 +14,12 @@ title: Zachary Peterson's Resume
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 ## Skills
-#### Programming:
+### Programming:
 
 - **Intermediate:** C++, Java, JavaScript, HTML & CSS, Python, MySQL
 - **Novice:** Swift, C#
 
-#### Other:
+### Other:
 
 - **Intermediate:** Android Studio, Linux, MacOS, Windows, Visual Studio
 
@@ -36,7 +36,8 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Work History
 
-`Jan 2019 - April 2019` , `Aug 2020 - Feb 2021`
+`Jan 2019 - April 2019` 
+`Aug 2020 - Feb 2021`
 __Klein & Walker Orthodontics__
 _Sterilization Specialist_
 - Operate Sterilization Equipment
@@ -65,21 +66,22 @@ __Personal Website__
 
 ## Certifications & Awards
 
-### Microsoft Office Specialist `2017`
+### Microsoft Office Specialist
 
 - Master 2013
 - Word 2013
 - PowerPoint 2013
 - Excel 2013  
 
-### Microsoft Technology Associate (MTA) `2017`
+### Microsoft Technology Associate (MTA)
 
 - HTML5 Application Development Fundamentals
 
 ### Awards & Achievements
-- Eagle Scout `2019`
-- Award of Excellence Scholarship `2019`
-- Kansas CTE Scholar `2018`
+- Eagle Scout 
+- Award of Excellence Scholarship 
+- Kansas CTE Scholar 
+
 <!-- ### Footer
 
 Last updated: May 2013 -->
