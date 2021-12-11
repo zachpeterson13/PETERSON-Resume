@@ -25,7 +25,7 @@ title: Zachary Peterson's Resume
 - **Intermediate:** Android Studio, Linux, MacOS, Windows, Visual Studio
 
 ## Education
-# ADD MAJOR HERE
+### Computer Science
 `Expected Fall 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
